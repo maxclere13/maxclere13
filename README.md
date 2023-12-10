@@ -2,26 +2,28 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 
-- <b>Data Structures in C++ (AlgoExpert)</b>
+- <b> Data Structures in C++ </b>
   - [X]
   - [X]
   - [X]
-- <b>Java </b>
-  - 
+- <b> Java </b>
+  - [X]
   - [X]
   
-- <b>Python</b>
+- <b> Python </b>
+  - [X]
   - [X]
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Fady Fahmy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Fady Fahmy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[instagram]: https://www.instagram.com/maxclere13/
 [linkedin]: https://linkedin.com/in/maxclere13/
+[instagram]: https://www.instagram.com/maxclere13/
 
----------------------------------------------------------------------------------
+
+<h2> About me: </h2>
 
 - 🔭 I’m currently working in the New York City Police Department. 
 - 🌱 I’m currently learning Computer Science and Information Security at John Jay College.
