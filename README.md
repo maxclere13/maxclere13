@@ -13,10 +13,6 @@
   - [Vending Machine Change](https://github.com/maxclere13/VendingMachine-Change.git)
   - [Dice Simulation](https://github.com/maxclere13/Dice-Simulation.git)
   - [Pizza Order Project](https://github.com/maxclere13/Pizza-Order.git)
-  
-- <b> Python </b>
-  - [X]
-  - [X]
 
 <h2> Certifications: </h2>
 
