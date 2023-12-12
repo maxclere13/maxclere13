@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b> Data Structures in C++ </b>
-  - [X]
+  - [Saving Account Project](https://github.com/maxclere13/SavingsAccount-project.git)
   - [X]
   - [X]
 - <b> Java </b>
