@@ -14,15 +14,23 @@
   - [X]
   - [X]
 
+<h2> Certifications: </h2>
+
+  - [ComTIA Network plus Prepl] (https://drive.google.com/file/d/1sm7kb8dQFLlvqMd7NS8dPHWHWHJ21-VS/view?usp=sharing)
+  - [CUNY CITI Researcher l] (https://www.citiprogram.org/verify/?w397b1220-c95e-469a-a138-2d79f7158220-49299643)
+  - [Google Cyber Security Professional: In progress]
+  - [CompTIA Security Plus: In progress]
+
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Fady Fahmy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Fady Fahmy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Fady Fahmy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] 
 
 [linkedin]: https://linkedin.com/in/maxclere13/
 [instagram]: https://www.instagram.com/maxclere13/
 
-
+-
 <h2> About me: </h2>
 
 - 🔭 I’m currently working in the New York City Police Department. 
