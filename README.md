@@ -30,8 +30,9 @@
 [linkedin]: https://linkedin.com/in/maxclere13/
 [instagram]: https://www.instagram.com/maxclere13/
 
--
-<h2> About me: </h2>
+<----
+
+ <h2> About me: </h2>
 
 - 🔭 I’m currently working in the New York City Police Department. 
 - 🌱 I’m currently learning Computer Science and Information Security at John Jay College.
