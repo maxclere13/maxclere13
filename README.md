@@ -1,16 +1,18 @@
-<h1>Hi, I'm Fady! <br/><a href="https://github.com/maxclere13">Programmer</a>, <a href="https://www.linkedin.com/in/maxclere13/">Cybersecurity Junior</a></h1>
-
+<h1> Hello, Welcome to My Github, my name is  Fady! A Computer Science Student, Programmer, and Cybersecurity Junior. </a></h1>
+  
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b> Data Structures in C++ </b>
   - [Saving Account Project](https://github.com/maxclere13/SavingsAccount-project.git)
-  - [Recursive Function Project](https://github.com/maxclere13/RecursiveFunction.git)
+  - [Recursive Function](https://github.com/maxclere13/RecursiveFunction.git)
   - [Calculating statistics for a set of test scores Project ](https://github.com/maxclere13/Test-Scores-Project.git)
   - [Arithmetic App Project ](https://github.com/maxclere13/Arithmetic-App.git)
-  - [ University Project](https://github.com/maxclere13/University-Project.git)
+  - [University Project](https://github.com/maxclere13/University-Project.git)
+
 - <b> Java </b>
-  - [X]
-  - [X]
+  - [Vending Machine Change](https://github.com/maxclere13/VendingMachine-Change.git)
+  - [Dice Simulation](https://github.com/maxclere13/Dice-Simulation.git)
+  - [Pizza Order Project](https://github.com/maxclere13/Pizza-Order.git)
   
 - <b> Python </b>
   - [X]
@@ -25,6 +27,8 @@
 
 
 <h2> 🤳 Connect with me:</h2>
+<a href="https://github.com/maxclere13"></a>
+<a href="https://www.linkedin.com/in/maxclere13/"></a>
 
 [<img align="left" alt="Fady Fahmy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Fady Fahmy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] 
