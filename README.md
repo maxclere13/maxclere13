@@ -5,7 +5,8 @@
 - <b> Data Structures in C++ </b>
   - [Saving Account Project](https://github.com/maxclere13/SavingsAccount-project.git)
   - [Recursive Function](https://github.com/maxclere13/RecursiveFunction.git)
-  - [Calculating statistics for a set of test scores ]
+  - [Calculating statistics for a set of test scores ](https://github.com/maxclere13/Test-Scores-Project.git)
+  - [Arithmetic App ](https://github.com/maxclere13/Arithmetic-App.git)
 - <b> Java </b>
   - [X]
   - [X]
