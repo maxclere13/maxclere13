@@ -1,4 +1,4 @@
-<h1> Hello, Welcome to My Github, my name is  Fady! A Computer Science Student, Programmer, and Cybersecurity Junior. </a></h1>
+<h1> Welcome to My Github, my name is  Fady! A Computer Science Student, Programmer, and Cybersecurity Junior. </a></h1>
   
 <h2>👨‍💻 IT Projects:</h2>
 
@@ -13,6 +13,9 @@
   - [Vending Machine Change](https://github.com/maxclere13/VendingMachine-Change.git)
   - [Dice Simulation](https://github.com/maxclere13/Dice-Simulation.git)
   - [Pizza Order Project](https://github.com/maxclere13/Pizza-Order.git)
+    
+- <b> Cryptography </b>
+  - [](https://github.com/maxclere13/VendingMachine-Change.git)
 
 <h2> Certifications: </h2>
 
