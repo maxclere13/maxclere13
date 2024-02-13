@@ -15,7 +15,7 @@
   - [Pizza Order Project](https://github.com/maxclere13/Pizza-Order.git)
     
 - <b> Cryptography </b>
-  - [](https://github.com/maxclere13/VendingMachine-Change.git)
+  - [Letter Frequency Decryption](https://github.com/maxclere13/Letter-Frequency-Decryption-.git)
 
 <h2> Certifications: </h2>
 
