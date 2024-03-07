@@ -1,4 +1,4 @@
-<h1> Welcome to My Github, my name is  Fady! A Computer Science Student, Programmer, and Cybersecurity Junior. </a></h1>
+<h1> Welcome to My Github, my name is  Fady! An Aspring Cyber Security Analyst, Junior Computer Science Student </a></h1>
   
 <h2>👨‍💻 IT Projects:</h2>
 
