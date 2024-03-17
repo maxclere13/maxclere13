@@ -21,7 +21,9 @@
 
   - [ComTIA Network plus Prepl] (https://drive.google.com/file/d/1sm7kb8dQFLlvqMd7NS8dPHWHWHJ21-VS/view?usp=sharing)
   - [THM Advant of Cyber 2023] (https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-7GEEGXVGV3.png)
-  - [ Foundational Cyber Intelligence Analyst] (https://drive.google.com/file/d/1sQXOTQxhmBZnlA649j9FT42JYBTL_87i/view?usp=sharing)
+  - [Foundational Cyber Intelligence Analyst] (https://drive.google.com/file/d/1sQXOTQxhmBZnlA649j9FT42JYBTL_87i/view?usp=sharing)
+  - [Certified - IriusRisk Threat Modeling] (https://www.credential.net/344c639e-eebc-4e06-ad6b-098dee3596c1#gs.6jn6ec)
+  - [Introduction to OSINT] (https://www.myosint.training/certificates/2fnjqofbie)
   - [Introduction to Splunk SOAR] (https://drive.google.com/file/d/1jCcNSZ6arF537dAxMT0sFdhPhx-Owgl8/view?usp=sharing)
   - [Introduction to Splunk Security Essentails] (https://drive.google.com/file/d/1KH1I-8VOxTnIJEKCy47TmFP4zoQpDpLV/view?usp=sharing)
   - [CUNY CITI Researcher l] (https://www.citiprogram.org/verify/?w397b1220-c95e-469a-a138-2d79f7158220-49299643)
