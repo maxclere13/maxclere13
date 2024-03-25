@@ -21,6 +21,8 @@
 
   - [ComTIA Network plus] (https://drive.google.com/file/d/1sm7kb8dQFLlvqMd7NS8dPHWHWHJ21-VS/view?usp=sharing)
   - [Cisco - Intro to CyberSecurity] (https://www.credly.com/badges/1e55f51c-07b4-49da-8012-521426577a7d/public_url)
+  - [Cisco - Networking Basics] (https://www.credly.com/badges/10a97a32-f2b2-46f1-bad7-914cff7ab29a/public_url)
+  - [APISEC - API Security Fundamentals] (https://www.credly.com/badges/3ccb77fd-1867-40bc-994c-37c0a70a9d02/public_url)
   - [THM - Advant of Cyber 2023] (https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-7GEEGXVGV3.png)
   - [Foundational Cyber Intelligence Analyst] (https://drive.google.com/file/d/1sQXOTQxhmBZnlA649j9FT42JYBTL_87i/view?usp=sharing)
   - [IriusRisk - Certified Threat Modeling] (https://www.credential.net/344c639e-eebc-4e06-ad6b-098dee3596c1#gs.6jn6ec)
